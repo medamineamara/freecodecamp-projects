@@ -9,5 +9,5 @@ Projects [here](https://github.com/medamineamara/freecodecamp-projects/tree/mast
 ## [Responsive Web Design](https://www.freecodecamp.org/certification/eminos10/responsive-web-design)
 Projects [here](https://codepen.io/eminos10/full/VwmZJNr)
 
-## [Responsive Web Design](https://www.freecodecamp.org/certification/eminos10/front-end-libraries)
+## [Front End Libraries](https://www.freecodecamp.org/certification/eminos10/front-end-libraries)
 Projects [here](https://codepen.io/eminos10)
